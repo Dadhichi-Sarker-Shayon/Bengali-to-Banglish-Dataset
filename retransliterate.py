@@ -175,9 +175,19 @@ def parse_word(word):
             # Collect consonant cluster joined by halant
             cons = [ch]
             j = i + 1
+            if j < n and word[j] == NUKTA:
+                if cons[-1] == 'য': cons[-1] = 'য়'
+                elif cons[-1] == 'ড': cons[-1] = 'ড়'
+                elif cons[-1] == 'ঢ': cons[-1] = 'ঢ়'
+                j += 1
             while j + 1 < n and word[j] == HALANT and is_consonant(word[j+1]):
                 cons.append(word[j+1])
                 j += 2
+                if j < n and word[j] == NUKTA:
+                    if cons[-1] == 'য': cons[-1] = 'য়'
+                    elif cons[-1] == 'ড': cons[-1] = 'ড়'
+                    elif cons[-1] == 'ঢ': cons[-1] = 'ঢ়'
+                    j += 1
             
             # Trailing halant (explicit virama — no inherent vowel)
             has_halant = (j < n and word[j] == HALANT)
@@ -374,7 +384,18 @@ def transliterate_word(word):
         return [word]
     
     # Generate variants via Cartesian product, capped at 15
-    return _generate_capped_variants(slots, 15)
+    res = _generate_capped_variants(slots, 15)
+    import re
+    cleaned_res = []
+    for r in res:
+        # replace Bengali digits with English digits
+        for i in range(10):
+            r = r.replace(chr(0x09e6 + i), str(i))
+        # remove remaining Bengali chars
+        r = re.sub(r'[\u0980-\u09FF]', '', r)
+        if r and r not in cleaned_res:
+            cleaned_res.append(r)
+    return cleaned_res if cleaned_res else ['']
 
 
 def _generate_capped_variants(slots, cap):
@@ -514,7 +535,7 @@ if __name__ == '__main__':
             pass
     
     print("\n--- Loading dataset ---")
-    df = pd.read_csv("D:/BN-BE-EN/bengali_dataset.csv")
+    df = pd.read_csv("D:/BN-BE-EN/Bengali-to-Banglish-Dataset.csv")
     print(f"Loaded {len(df)} rows")
     
     print("--- Re-transliterating all rows ---")
@@ -531,5 +552,5 @@ if __name__ == '__main__':
     df['Banglish'] = results
     
     print("--- Saving ---")
-    df.to_csv("D:/BN-BE-EN/bengali_dataset.csv", index=False)
+    df.to_csv("D:/BN-BE-EN/Bengali-to-Banglish-Dataset.csv", index=False)
     print(f"Done! All {total} rows re-transliterated and saved.")
