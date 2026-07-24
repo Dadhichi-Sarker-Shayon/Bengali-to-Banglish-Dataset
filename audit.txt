@@ -1,0 +1,72 @@
+=== Words with ড় (should use 'r' not 'd'): 4124 rows ===
+  (কোনো জায়গায়) সাময়িকভাবে বিনা পাহারায় (মোটর গাড়ি) রাখা -> (kono jayogay) samoyikbhabe bina paharay (motor gari) rakha, (kono jayogay) samo
+  (সাধা. একবচন) জনতার চাপাচাপি ভিড় -> (sadha. ekobochon) jonotar chapachapi bhir, (sadha. ekobochon) jonotar chapachap
+  (সেকেলে কথ্য) এমন আচরণ করা যাতে মনে হয় আচোচ্য ব্যক্তি প্রেমে পড়েছে -> (sekele kothyo) emon achorn kora jate mone hoy achochyo byokti preme porechhe, (
+  1. (আগেকার দিনে ইতস্তত ভ্রাম্যমাণ গৃহপালিত পশুকে আটক রাখার জন্য) খোঁয়াড় 2. -> 1. (agekar dine itostot bhramyoman grihopalit poshuke atok rakhar jonyo) khoyar 
+  1. (কোনো কিছুর উপরিভাগ সম্বন্ধে) পূড়ে কালো হওয়া বা পুড়িয়ে কালো করা  2. ঠিকা কাজ করা -> 1. (kono kichhur uporibhag somwondhe) poore kalo hooya ba puriye kalo kora  2. t
+
+=== Words with ঢ় (should use 'rh' not 'dh'): 250 rows ===
+  অগূঢ় -> ogoorh, ogurh
+  অজানা (adj.), অজ্ঞাত (adj.), অপরিচিত (adj.), অচেনা (adj.), অপরিজ্ঞাত (adj.), অজানিত (adj.), অবিজ্ঞাত (adj.), অবিদিত (adj.), অগোচর (adj.), অনবগত (adj.), অনাবিষ্কৃত (adj.), গূঢ় (adj.), উটকা (adj.), অব্যক্ত (adj.), নামবিহীন (adj.), অবিখ্যাত (adj.), অনাগত (adj.), উটকো (adj.), অপ্রসিদ্ধ (adj.), অজ্ঞাত ব্যক্তি (n) -> ojana (adj.), oggat (adj.), oporichit (adj.), ochena (adj.), oporiggat (adj.), o
+  অজ্ঞতা (n), মূর্খতা (n), অস্বচ্ছতা (n), শিক্ষাহীনতা (n), মূঢ়তা (n), স্থূলবুদ্ধি (n), বুদ্ধিহীনতা (n) -> oggota (n), moorkhota (n), oswochchhota (n), shikkhaheenota (n), moorhota (n), s
+  অত্যধিক দৃঢ়ভাবে বলা (v), বাড়াইয়া বলা (v), অত্যুক্তি করা (v), অতিরঁজিত করা (v) -> otyodhik drirhbhabe bola (v), baraiya bola (v), otyukti kora (v), otirjit kora (
+  অদৃঢ় -> odrirh, odrerh
+
+=== Words with দ্ব (dw/d variants): 1563 rows ===
+  (ইতি) (পিস্তল বা তরবারি নিয়ে সম্মানের প্রশ্ন মীমাংসার জন্য দুই ব্যক্তির মধ্যে আহূত) দ্বন্দ্বযুদ্ধ -> (iti) (pistol ba torbari niye sommaner proshno meemangsar jonyo dui byoktir modh
+  1. ইহুদিবিদ্বেষ 2. ইহুদিবিদ্বেষ নীতি -> 1. ihudibidwesh 2. ihudibidwesh neeti, 1. ihudibidobesh 2. ihudibidobesh neeti, 
+  1. দ্বারাদেয় শুল্ক 2. চুঙ্গিকর -> 1. dwaradey shulko 2. chunggikor, 1. dobaradey shulko 2. chunggikor, 1. dobarade
+  anaconda দ্বারা -> anaconda dwara, anaconda dobara, anaconda dara
+  lovelily দ্বারা -> lovelily dwara, lovelily dobara, lovelily dara
+
+=== Words with স্ব (sw/sh variants): 2843 rows ===
+  1. এক জাতের সুস্বাদু ছোট মাছ 2. -> 1. ek jater suswadu chhot machh 2., 1. ek jater susbadu chhot machh 2., 1. ek ja
+  1. পূর্বলক্ষণসূচক 2. অস্বাভাবিক 3. আকর্ষণীয় -> 1. poorbolokkhonosoochok 2. oswabhabik 3. akorshoneey, 1. poorbolokkhonosoochok 
+  1. মাছ ধরার জন্য ছোট পালের নৌকা 2. ঈষৎ স্বাদ বা গন্ধ, ইঙ্গিত আভাস, ঈষৎ স্বাদ গন্ধযুক্ত হওয়া -> 1. machh dhorar jonyo chhot paler nouka 2. eeshot swad ba gondho, inggit abhas, 
+  1. স্বামীহীনা স্ত্রীলোক 2. স্বামীবিচ্ছিন্না স্ত্রীলোক -> 1. swameeheena streelok 2. swameebichchhinna streelok, 1. sbameeheena streelok 2
+  অ বাজানো, অ-ক্রীড়ক, স্বয়ং খেলায় অংশগ্রহণ করে না এমন -> o bajano, o-kreerk, swoyong khelay ongshogrohon kore na emon, sboyon khelay ongs
+
+=== Words with জ্ঞ (should be 'gg'): 1570 rows ===
+  &quot;বাবার&quot; ছবি সংগ্রহের জন্য | বিশেষ করে &quot;বাবার&quot; ছোট বেলার ছবিটির জন্য আপনাকে অশেষ ধন্যবাদ জ্ঞাপন করছি -> &quot;babar&quot; chhobi songgroher jonyo | bishesh kore &quot;babar&quot; chhot
+  1. অনুরোধের আসর 2. অনুরোধ জ্ঞাপন 3. কোনো কিছুর জন্য আবেদন -> 1. onurdher asor 2. onurdh ggapon 3. kono kichhur jonyo abedon, 1. onurdher asor
+  catface সংজ্ঞা -> catface songgga, catface songga, catface songgoga, catface songoga
+  অ - বিশেষজ্ঞ -> o - bisheshoggo, o - bisesoggo
+  অ-বিতর্কিত, অসংশয়িত, অজিজ্ঞাসিত -> o-bitorkit, osongshoyit, ojiggasit, ojiggoasit, osongsoyit, osonshoyit, osonsoyi
+
+=== Words with ক্ষ (should be 'kkh'): 7436 rows ===
+  (আনুষ্ঠা) ক্ষতিকর -> (anushtha) kkhotikor, (anushtha) kshotikor
+  (চিকি.) দাঁতের উপর জমে ওঠা নরম, সাদা পদার্থবিশেষ, যা ক্ষতিকর ব্যাকটেরিয়ার প্রবৃদ্ধিতে সাহয়তা করে -> (chiki.) dater upor jome otha norm, sada podarthobishesh, ja kkhotikor byakoteri
+  (বাইবেল) ১ যে আচ্ছাদনযুক্ত জাহাজে করে noah (কোরানে হযরত নুহ) এবং তার পরিবার মহাপ্লাবন থেকে জীবনরক্ষা করেছিলেন -> (baibel) 1 je achchhadonjukto jahaje kore noah (korane hojort nuh) ebong tar por
+  (ব্যক্তি অথবা চরিত্রের ক্ষেত্রে) গুরুহম্ভীর -> (byokti othoba choritrer kkhetre) guruhombheer, (byokti othoba choritrer kkhetre
+  (সাহিত্য.) গভীরভাবে নিরীক্ষণ করা -> (sahityo.) gobheerbhabe nireekkhon kora, (sahityo.) gobheerbhabe nireekshon kora
+
+=== Words with ত্ব: 1859 rows ===
+  1. কোনো বিষয় যাতে কেউ উৎসাহী বা যা কারো গুরুত্বপূর্ণ  2. সম্পর্কযুক্ত করা -> 1. kono bishoy jate keu utsahee ba ja karo gurutwopoorno  2. somporkjukto kora, 
+  1. মেরু হইতে কৌণিক দূরত্ব 2. লম্বাংশ -> 1. meru hoite kounik doortwo 2. lomwangsh, 1. meru hoite kounik doortwo 2. lomwa
+  1. শিল্পগুণ 2. গঠনশৈলী 3. প্রাচীনত্ব ইঃ কারণে দুর্লভ কোনো সামগ্রী -> 1. shilpogun 2. gothonoshoilee 3. pracheentwo ih karne durlobh kono samogree, 1.
+  : ত্বাহা -> : twaha, : taha
+  অ সত্তা, তুচ্ছ, নগণ্য বস্তু, ফালতু লোক, অবাস্তব জিনিস, অবিদ্যমান বস্তু, অনস্তিত্ব, তুচ্ছ ব্যক্তি -> o sotta, tuchchho, nogonyo bostu, falotu lok, obastob jinis, obidyoman bostu, on
+
+=== RANDOM SAMPLE (20 rows) ===
+  কোনোকিছু -> konokichhu, konokichu
+  শরীয়া -> shriya
+  মুদ্রাক্ষরিত কপি, মুদ্রাক্ষরিত প্রতিলিপি, টাইপ-প্রতিলিপি -> mudrakkhorit kopi, mudrakkhorit protilipi, taip-protilipi, mudrakshorit kopi, mudrakshorit protilipi
+  দ্রুত আবর্তন -> drut aborton
+  ফলে -> fole, phole
+  বিশ্বাস করান (v), প্ররোচিত করা (v), জপান (v), প্রবর্তিত করা (v), লত্তয়ান (v), প্রত্যয় জন্মান (v), মত করান (v), বোঝান (v), পটান (v) -> bishwas koran (v), prorchit kora (v), jopan (v), probortit kora (v), lottoyan (v), protyoy jonman (v
+  বিস্ফোরণের -> bisforner
+  কৃত্রিম রবার -> kritrim robar, kretrim robar
+  বাতাস বা গ্যাস ভরে ফোলানো, উৎফুল্ল করে তোলা, গর্বে স্ফীত হয়ে ওঠা, মুদ্রাস্ফীতি ঘটানো, কত্রিম উপায়ে বাড়িয়ে দেওয়া -> batas ba gyas bhore folano, utfullo kore tola, gorbe sfeet hoye otha, mudrasfeeti ghotano, kotrim up
+  আমোদপ্রমোদ -> amodopromod
+  ইস্যুকে -> isjuke
+  তরিত -> torit, torito
+  অডিও -> odio
+  একধরণর জাপানী ছবি -> ekodhornor japanee chhobi, ekodhornor japanee chobi, ekodhornor japani chhobi, ekodhornor japani cho
+  পরাভূত করা (v), বলে বশীভূত করা (v), জয় করা (v) -> porabhoot kora (v), bole bosheebhoot kora (v), joy kora (v), porabhoot kora (bh), bole boseebhoot ko
+  ভ্যানকা -> vjanka
+  মুদ্রণ (n), মুদ্রাঙ্কন (n) -> mudron (n), mudrangkon (n)
+  খেলি -> kheli
+  মেনে চলা, একমত হওয়া, অনুবর্তী হওয়া, নিজেকে খাপ খাওয়ানো -> mene chola, ekomot hooya, onubortee hooya, nijeke khap khaoyano, nizeke khap khaoyano, onuborti hooy
+  অমলকমলাসন -> omolokomolason
+
+=== TOTAL ROWS: 206926 ===

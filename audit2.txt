@@ -1,0 +1,40 @@
+=== Rows with 'dob' in Banglish (bad দ্ব variants) ===
+  (ইতি) (পিস্তল বা তরবারি নিয়ে সম্মানের প -> (iti) (pistol ba torbari niye sommaner proshno meemangsar jonyo dui byoktir modhye ahoot) dwondwojuddho, (iti) (pistol b
+  1. ইহুদিবিদ্বেষ 2. ইহুদিবিদ্বেষ নীতি -> 1. ihudibidwesh 2. ihudibidwesh neeti, 1. ihudibidobesh 2. ihudibidobesh neeti, 1. ihudibidobesh 2. ihudibidobesh niti, 
+  1. দ্বারাদেয় শুল্ক 2. চুঙ্গিকর -> 1. dwaradey shulko 2. chunggikor, 1. dobaradey shulko 2. chunggikor, 1. dobaradey shulko 2. cunggikor, 1. dobaradey sulk
+  1. মরণনৃত্য 2. তান্ডবনৃত্য 3. প্রলয়নাচন -> 1. mornonrityo 2. tandobonrityo 3. proloyonachon, 1. mornonretyo 2. tandobonrityo 3. proloyonachon, 1. mornonretyo 2. ta
+  anaconda দ্বারা -> anaconda dwara, anaconda dobara, anaconda dara
+  lake কবি, ইংল্যাণ্ডের উ.প. অংশের হ্রদবহু -> lake kobi, inglyander u.p. ongsher hrodobohul onchole bosobasokaree kobigon, inglyander u.p. ongser hrodobohul onchole b
+  lovelily দ্বারা -> lovelily dwara, lovelily dobara, lovelily dara
+  phonon দ্বারা প্রেক্ষাপটে -> phonon dwara prekkhapote, phonon dobara prekkhapote, phonon dobara prekshapote, phonon dwara prekshapote, phonon dara pr
+  psycho উদ্বায়ু, মনোব্যাধি -> psycho udwayu, monobyadhi, psycho udobayu, psycho udayu
+  yum দ্বারা -> yum dwara, yum dobara, yum dara
+
+=== Rows with 'sob' in Banglish (bad স্ব variants): ===
+  1. দামী এবং শৌখিন 2. বিলাসবহুল -> 1. damee ebong shoukhin 2. bilasobohul, 1. damee ebon shoukhin 2. bilasobohul, 1. damee ebon showkhin 2. bilasobohul, 1.
+  1. পাখির পালক  2. পালকশোভিত করা -> 1. pakhir palok  2. palokoshobhit kora, 1. pakhir palok  2. palokoshovit kora, 1. pakhir palok  2. palokosobhit kora, 1.
+  1. সবৃন্তিক দূত 2. মহাবাণিজ্যদূত -> 1. sobrintik doot 2. mohabanijyodoot, 1. sobrentik doot 2. mohabanijyodoot, 1. sobrentik doot 2. mohabanizyodoot, 1. sob
+  boss:া প্রতিশব্দ -> boss:a protishobdo, boss:a protisobdo
+  lake কবি, ইংল্যাণ্ডের উ.প. অংশের হ্রদবহু -> lake kobi, inglyander u.p. ongsher hrodobohul onchole bosobasokaree kobigon, inglyander u.p. ongser hrodobohul onchole b
+  mill পুকুরে, বাঁধ দিয়ে নির্মিত যে পুকুর  -> mill pukure, badh diye nirmit je pukur hoite koler chakay jol soborah kora hoy, badh diye nirmit je pukur hoite koler ca
+  vasovagal শব্দের -> vasovagal shobder, vasovagal sobder
+  অকৃতকার্য হওয়া, নির্দিষ্ট স্থানে পৌঁছাতে -> okritokarjo hooya, nirdishto sthane pouchhate na para, okale prosob kora, gorbhosrab hooya, okretokarjo hooya, nirdishto
+  অক্সব্রিজ -> oksobrij, oksobriz
+  অগ্ন্যুত্সব -> ognyutsob
+
+=== ভ্যানকা row ===
+  ভ্যানকা -> vjanka
+
+=== শরীয়া row ===
+
+=== ইস্যুকে row ===
+  ইস্যুকে -> isjuke
+
+=== বিস্ফোরণের row ===
+  বিস্ফোরণের -> bisforner
+
+=== ড় words that still have wrong 'd' transliteration ===
+  গাড়ি -> gari
+  বাড়ি -> bari
+  তাড়া -> tara
+  পাড়ি -> pari

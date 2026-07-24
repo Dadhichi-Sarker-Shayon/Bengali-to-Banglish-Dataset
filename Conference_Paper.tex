@@ -1,0 +1,47 @@
+\documentclass[conference]{IEEEtran}
+\IEEEoverridecommandlockouts
+\usepackage{cite}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{algorithmic}
+\usepackage{graphicx}
+\usepackage{textcomp}
+\usepackage{xcolor}
+
+\begin{document}
+
+\title{Development of a Massive Bengali-English-Banglish Dataset for Multilingual Natural Language Processing}
+
+\author{\IEEEauthorblockN{Anonymous Authors}}
+
+\maketitle
+
+\begin{abstract}
+This paper presents the creation of a massive parallel dataset comprising 206,926 rows of Bengali, English, and Banglish (Bengali written in Roman script) text. The dataset aims to bridge the gap in resources for transliterated and code-mixed Bengali NLP. We detail the methodology, which includes merging multiple dictionaries, generating conversational Banglish, handling phonetic challenges such as the inherent 'o' schwa deletion, targeted 'v'/'bh' mappings, and incorporating gold standard data. Dataset statistics and potential applications in machine translation and natural language understanding are discussed.
+\end{abstract}
+
+\section{Introduction}
+Bengali is one of the most spoken languages in the world. With the proliferation of digital communication, a significant portion of Bengali text online is written using the Roman script, known as Banglish. This creates challenges for traditional NLP models trained primarily on the Bengali script. To address this, we developed a comprehensive dataset of 206,926 Bengali-English-Banglish parallel sentences and phrases.
+
+\section{Related Work}
+Previous efforts in Bengali NLP have primarily focused on standard Bengali text. Some datasets have explored code-mixing and transliteration, but they are often limited in size and scope. Our work expands on these by providing a large-scale, unified dataset that maps standard Bengali to both English and Banglish.
+
+\section{Methodology}
+\subsection{Merging Dictionaries}
+We aggregated data from multiple open-source Bengali-English dictionaries to form the foundational parallel corpus.
+
+\subsection{Generating Conversational Banglish}
+We utilized rule-based transliteration systems and transliteration models to generate Banglish equivalents for the Bengali text, specifically tailoring the output to reflect conversational spelling variations.
+
+\subsection{Handling Inherent 'o' Schwa Deletion and Phonetic Mappings}
+A major challenge in Bengali transliteration is the inherent vowel 'o' which is often unpronounced (schwa deletion). We implemented phonetic rules to accurately omit or retain the 'o' based on word context. Additionally, we standardized targeted mappings for characters such as 'v' and 'bh'.
+
+\subsection{Adding Gold Standard Data}
+To ensure high quality, a subset of the dataset was manually annotated and verified by native speakers, serving as a gold standard for evaluation and model fine-tuning.
+
+\section{Dataset Statistics}
+The final dataset consists of 206,926 rows. Each row contains a Bengali string, its English translation, and its Banglish transliteration. The dataset covers a wide range of vocabulary, from formal dictionary entries to informal conversational phrases.
+
+\section{Conclusion}
+The Bengali-English-Banglish dataset provides a critical resource for advancing NLP research in transliterated Bengali. Future work will focus on training robust machine translation and language models using this corpus.
+
+\end{document}
